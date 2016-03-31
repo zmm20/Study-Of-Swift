@@ -22,3 +22,6 @@ print("\n")
 
 extensionTest()
 print("\n")
+
+protocol_test()
+print("\n")
