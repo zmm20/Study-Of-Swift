@@ -25,3 +25,6 @@ print("\n")
 
 protocol_test()
 print("\n")
+
+GenericsTest()
+print("\n")
