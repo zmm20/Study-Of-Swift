@@ -28,3 +28,9 @@ print("\n")
 
 GenericsTest()
 print("\n")
+
+AccessControlTest()
+print("\n")
+
+AdvancedOperatorsTest()
+print("\n")
