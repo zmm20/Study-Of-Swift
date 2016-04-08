@@ -8,6 +8,13 @@
 
 import Foundation
 
+//assert(false, "test assert")
+stringTest()
+print("\n")
+
+CollectionTypesTest()
+print("\n")
+
 // 异常测试
 try! exceptionTest()
 print("\n")
